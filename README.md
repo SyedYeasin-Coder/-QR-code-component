@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component
 
-![Design preview for the QR code component coding challenge](./preview.jpg)
+![Design preview for the QR code component coding challenge](./design/preview.jpg)
 
 ## Welcome! 👋
 
@@ -14,7 +14,7 @@ Here is the link of the challange-
 https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
 
 Here is the solution site url-
-
+https://syedyeasin-coder.github.io/-QR-code-component/
 
 ## Built with
 
