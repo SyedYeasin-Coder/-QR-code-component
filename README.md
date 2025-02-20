@@ -14,7 +14,7 @@ Here is the link of the challange-
 https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
 
 Here is the solution site url-
-
+https://syedyeasin-coder.github.io/-QR-code-component/
 
 ## Built with
 
