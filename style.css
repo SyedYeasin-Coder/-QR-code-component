@@ -21,12 +21,12 @@ body {
     background-color: hsl(212, 45%, 89%);
     text-align: center;
 }
-.text-container>h1{
+.text-container h1{
     font-weight: 700;
     color: hsl(218, 44%, 22%);
     margin-bottom: 1rem;
 }
-.text-container>p{
+.text-container p{
     font-weight: 400;
 }
 .text-container{
